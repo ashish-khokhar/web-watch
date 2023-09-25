@@ -4,18 +4,19 @@
     "url": "https://document.feasycom.com",
     "icon": "https://icons.duckduckgo.com/ip3/document.feasycom.com.ico",
     "slug": "document-feasycom-com",
-    "status": "up",
-    "uptime": "99.81%",
+    "status": "down",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 1044,
     "timeDay": 999,
     "timeWeek": 1044,
     "timeMonth": 1044,
     "timeYear": 1044,
     "dailyMinutesDown": {
+      "2023-09-25": 0,
       "2023-09-19": 15
     }
   }
