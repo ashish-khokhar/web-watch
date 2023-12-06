@@ -5,6 +5,10 @@ repo: web-watch # The name of this repository
 sites:
   - name: document.feasycom.com
     url: https://document.feasycom.com
+  - name: download.proxmox.com
+    url: http://download.proxmox.com
+  - name: enterprise.proxmox.com
+    url: https://enterprise.proxmox.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
