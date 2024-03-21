@@ -49,19 +49,19 @@
     "url": "http://download.proxmox.com",
     "icon": "https://icons.duckduckgo.com/ip3/download.proxmox.com.ico",
     "slug": "download-proxmox-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 491,
-    "timeWeek": 607,
-    "timeMonth": 663,
-    "timeYear": 592,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 591,
+    "timeDay": 490,
+    "timeWeek": 592,
+    "timeMonth": 657,
+    "timeYear": 591,
     "dailyMinutesDown": {
-      "2024-03-21": 0
+      "2024-03-21": 23
     }
   },
   {
@@ -69,19 +69,19 @@
     "url": "https://enterprise.proxmox.com",
     "icon": "https://icons.duckduckgo.com/ip3/enterprise.proxmox.com.ico",
     "slug": "enterprise-proxmox-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 410,
-    "timeWeek": 630,
-    "timeMonth": 638,
-    "timeYear": 597,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 596,
+    "timeDay": 447,
+    "timeWeek": 612,
+    "timeMonth": 633,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2024-03-21": 0
+      "2024-03-21": 23
     }
   }
 ]
