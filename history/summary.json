@@ -4,7 +4,7 @@
     "url": "https://document.feasycom.com",
     "icon": "https://icons.duckduckgo.com/ip3/document.feasycom.com.ico",
     "slug": "document-feasycom-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1136,
     "timeYear": 1059,
     "dailyMinutesDown": {
+      "2024-04-09": 0,
       "2024-03-28": 49,
       "2024-03-27": 78,
       "2024-03-26": 1,
